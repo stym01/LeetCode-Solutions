@@ -1,36 +1,34 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        // int i=0;
-        int j=0;
+        set<vector<int>>st;
         int n=nums.size();
-        // int k=n-1;      
-        vector<vector<int>>ans;
-
-        for(int i=0;i<n;i++){
-            if(i>0 && nums[i]==nums[i-1]) continue;
-            j=i+1;
-            int k=n-1;
-            while(j<k){
-                int x=nums[j]+nums[k];
-                x+=nums[i];
-                if(x==0){
-                    ans.push_back({nums[i],nums[j],nums[k]});
-                    cout<<i<<" "<<j<< " "<<k<<endl;
-                    int last= nums[j], last_high_occurrence = nums[k];
-                    while(j<k && nums[j]==last)
-                    {j++;}
-                    while(j<k && nums[k]==last_high_occurrence)
-                    {k--;}
+        sort(nums.begin(),nums.end());
+        for(int k=0;k<nums.size()-1;k++){
+            int i=k+1,j=n-1;
+            while(k<n-1 && nums[k]==nums[k+1]) continue;
+            while(i<j){
+                
+                int sum=nums[i]+nums[j];
+                sum+=nums[k];
+                if(sum==0) {
+                    vector<int>temp={nums[k],nums[i],nums[j]};
+                    st.insert(temp);
+                    i++;
+                    j--;
+                    // while(i<j &&nums[i]==nums[i+1]) {
+                    //     i++;
+                    // }
+                    // while(i<j && nums[j]==nums[j-1]){
+                    //     j--;
+                    // }
                 }
-                else if(x>0){
-                    k--;
-                }
-                else j++;
+                else if(sum<0) i++;
+                else j--;
+                // cout<<'a'<<endl;
             }
-            // i++;
         }
+        vector<vector<int>>ans(st.begin(),st.end());
 
         return ans;
     }
