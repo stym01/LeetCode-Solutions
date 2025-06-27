@@ -26,58 +26,22 @@ public:
 
     }
 
+    TreeNode*f(TreeNode*root,int d,int maxi){
+        if(root==NULL || d==maxi) return root;
+        TreeNode*left=f(root->left,d+1,maxi);
+        TreeNode*right=f(root->right,d+1,maxi);
+        if(left!=NULL && right!=NULL) return root;
+        if(left!=NULL) return left;
+        if(right!=NULL) return right;
+        return NULL;
+    }
+
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
         map<TreeNode*,TreeNode*>parent;
         parent[root]=NULL;
         int maxi=0;
         par(root,0,maxi,parent);
 
-        queue<TreeNode*>q;
-        q.push(root);
-        int depth=0;
-        vector<TreeNode*>childs;
-        while(!q.empty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                TreeNode*temp=q.front();
-                q.pop();
-                if(depth==maxi-1){
-                    if(temp->left==NULL && temp->right==NULL){
-                        continue;
-                    }
-                    else{
-                        childs.push_back(temp);
-                    }
-                }
-                else{
-                    if(temp->left) q.push(temp->left);
-                    if(temp->right) q.push(temp->right);
-                }
-            }
-            depth++;
-        }
-        if(childs.size()==0) return root;
-        if(childs.size()==1) {
-            TreeNode*first=childs[0];
-            if(first->left!=NULL && first->right!=NULL)
-                return childs[0];
-            else if(first->left) return first->left;
-            return first->right;
-        }
-
-        while(1){
-            bool flag=0;
-            for(int i=0;i<childs.size();i++){
-                if(childs[i]!=childs[0]){
-                    flag=1;
-                    break;
-                }
-            }
-            if(flag==0) return childs[0];
-            for(int i=0;i<childs.size();i++) {
-                childs[i]=parent[childs[i]];
-            }
-        }
-        return root;
+        return f(root,0,maxi);
     }
 };
