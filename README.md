@@ -4,18 +4,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Array
 |  |
@@ -43,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stym01/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
