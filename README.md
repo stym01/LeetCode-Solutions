@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0623-add-one-row-to-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0623-add-one-row-to-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0623-add-one-row-to-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
