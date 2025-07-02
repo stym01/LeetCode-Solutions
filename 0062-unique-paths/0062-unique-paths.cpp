@@ -18,18 +18,25 @@ public:
         vector<vector<int>>dp(m+1,vector<int>(n+1,0));
 
         dp[m-1][n-1]=1;
+        vector<int>next(n+1,0);
+        vector<int>curr(n+1,0);
+
+        next[n-1]=1;
+        curr[n-1]=1;
+
 
         for(int row=m-1;row>=0;row--){
             for(int col=n-1;col>=0;col--){
                 if(row==m-1 && col==n-1) continue;
-                cout<<dp[row][col]<<endl;
-                int down=dp[row+1][col];
-                int right=dp[row][col+1];
-                dp[row][col]=down+right;
+
+                int down=next[col];
+                int right=curr[col+1];
+                curr[col]=down+right;
             }
+            next=curr;
         }
 
-        return dp[0][0];
+        return curr[0];
         // return no_of_paths(0,0,m,n,dp);
     }
 };
