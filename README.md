@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stym01/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/stym01/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/stym01/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stym01/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/stym01/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Graph
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/stym01/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
