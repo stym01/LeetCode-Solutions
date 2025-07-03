@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/stym01/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/stym01/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0967-minimum-falling-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/stym01/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/stym01/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Graph
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/stym01/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
