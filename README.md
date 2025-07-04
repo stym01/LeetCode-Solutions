@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/stym01/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/stym01/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
