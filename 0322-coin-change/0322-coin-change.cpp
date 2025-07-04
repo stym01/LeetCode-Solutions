@@ -3,10 +3,8 @@ public:
 
     int minCoins(int ind,int rem,int n,vector<int>&coins,vector<vector<int>>&dp){
         if(rem<0) return 1e9;
-        if(ind==n) {
-            if(rem==0) return 0;
-            else return 1e9;
-        }
+        if(ind==n) return (rem==0)?0:1e9;
+
         if(dp[ind][rem]!=-1) return dp[ind][rem];
         //pick
         int pick=1+minCoins(ind,rem-coins[ind],n,coins,dp);
