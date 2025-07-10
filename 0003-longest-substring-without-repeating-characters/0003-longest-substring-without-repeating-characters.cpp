@@ -7,25 +7,14 @@ public:
         int len=0;
         map<char,int>mpp;
         while(j<n){
-            cout<<mpp[s[j]]<<"  ";
-            if(mpp[s[j]]>0){
-                while(i<n && s[i]!=s[j]) {
-                    cout<<i<<endl;
-                    mpp[s[i]]=0;
-                    i++;
-                }
-                mpp[s[i]]=0;
-                i++;
-                len=max(len,j-i+1);
-    
-                mpp[s[j]]=0;
-            }
-            else{
-                mpp[s[j]]++;
-                len=max(len,j-i+1);
 
-                j++;
+            if(mpp[s[j]]>0){
+                i=max(i,mpp[s[j]]);
             }
+            mpp[s[j]]=j+1;
+
+            len=max(len,j-i+1);
+            j++;
             cout<<len<<" "<<i<<" "<<j<<endl;
         }
         return len;
