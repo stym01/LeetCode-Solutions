@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/stym01/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/stym01/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/stym01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0967-minimum-falling-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/stym01/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/stym01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/stym01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/stym01/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/stym01/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/stym01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Graph
 |  |
 | ------- |
