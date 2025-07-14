@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/stym01/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1252-break-a-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
@@ -238,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1252-break-a-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 <!---LeetCode Topics End-->
