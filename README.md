@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/stym01/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/stym01/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [1033-broken-calculator](https://github.com/stym01/LeetCode-Solutions/tree/master/1033-broken-calculator) |
 ## Memoization
 |  |
 | ------- |
@@ -239,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/stym01/LeetCode-Solutions/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 <!---LeetCode Topics End-->
