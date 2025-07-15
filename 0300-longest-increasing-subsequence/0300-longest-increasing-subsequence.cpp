@@ -12,12 +12,27 @@ public:
         }
         int ntake=f(ind+1,prev,nums,dp);
         return dp[ind][prev+1]=max(take,ntake);
+    
 
     }
 
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        vector<vector<int>>dp(n+1,vector<int>(n+2,0));
+
+        for(int ind=n-1;ind>=0;ind--){
+            for(int prev=n-2;prev>=-1;prev--){
+                int take=0;
+                int ntake=0;
+                if(prev==-1 || nums[prev]<nums[ind]){
+                    take=1+dp[ind+1][ind+1];
+                }
+                ntake=dp[ind+1][prev+1];
+                dp[ind][prev+1]=max(take,ntake);
+            }
+        }
+        return dp[0][0];
+
         return f(0,-1,nums,dp);
     }
 };
