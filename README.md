@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1961-maximum-ice-cream-bars](https://github.com/stym01/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/stym01/LeetCode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/stym01/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1961-maximum-ice-cream-bars](https://github.com/stym01/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/stym01/LeetCode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/stym01/LeetCode-Solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/stym01/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1961-maximum-ice-cream-bars](https://github.com/stym01/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/stym01/LeetCode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/stym01/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/stym01/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/stym01/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
