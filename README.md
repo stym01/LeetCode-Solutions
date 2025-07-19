@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/stym01/LeetCode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/stym01/LeetCode-Solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/stym01/LeetCode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/stym01/LeetCode-Solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/stym01/LeetCode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/stym01/LeetCode-Solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Recursion
 |  |
 | ------- |
