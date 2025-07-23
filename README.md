@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/stym01/LeetCode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2294-minimum-time-to-complete-trips](https://github.com/stym01/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/stym01/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/stym01/LeetCode-Solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stym01/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [2294-minimum-time-to-complete-trips](https://github.com/stym01/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 ## Binary Search Tree
 |  |
 | ------- |
