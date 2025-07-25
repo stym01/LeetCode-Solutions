@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/stym01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/stym01/LeetCode-Solutions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/stym01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/stym01/LeetCode-Solutions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-minimum-time-to-finish-the-race](https://github.com/stym01/LeetCode-Solutions/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/stym01/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/stym01/LeetCode-Solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/stym01/LeetCode-Solutions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/stym01/LeetCode-Solutions/tree/master/2295-minimum-time-to-finish-the-race) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/stym01/LeetCode-Solutions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
