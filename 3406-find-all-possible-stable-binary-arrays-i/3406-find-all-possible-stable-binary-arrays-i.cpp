@@ -1,33 +1,28 @@
 class Solution {
 public:
-    int mod = 1e9 + 7; 
-    int dp[202][202][2];    
-    int solve(int one, int zero, bool ms, int limit){
-        if(one==0 && zero==0) return 1;
-        
-        int ans = 0;
 
-        if(dp[one][zero][ms]!=-1){
-            return dp[one][zero][ms];
+    int mod=1e9+7;
+    int f(int zero,int one,int limit,bool zer,vector<vector<vector<int>>>&dp){
+        if(zero==0 && one==0) return 1;
+
+        if(dp[zero][one][zer]!=-1) return dp[zero][one][zer];
+
+        int ans=0;
+        if(zer){
+            for(int i=1;i<=min(one,limit);i++) ans=(ans+f(zero,one-i,limit,false,dp)%mod)%mod;
         }
-        
-        if(ms==true)//prev i have taken 0 
-        {
-            for(int i=1; i<=min(one,limit); i++){
-                ans = (ans+solve(one-i,zero,false,limit)%mod)%mod ;
-            }
+        else{
+            for(int i=1;i<=min(zero,limit);i++) ans=(ans+f(zero-i,one,limit,true,dp)%mod)%mod;
         }
-        else if(ms==false){//prev i have taken 1
-            for(int i=1; i<=min(zero,limit); i++){
-                ans = (ans+solve(one,zero-i,true,limit)%mod)%mod ;
-            }
-        }
-        return dp[one][zero][ms] = ans%mod; 
+        return dp[zero][one][zer]=ans%mod;
     }
+    
     int numberOfStableArrays(int zero, int one, int limit) {
-         memset(dp,-1,sizeof(dp)) ;
-         int a=solve(one,zero,true,limit)%mod;
-         int b= solve(one,zero,false,limit)%mod;
-         return (a+b)%mod;    
+        
+        vector<vector<vector<int>>>dp(zero+1,vector<vector<int>>(one+1,vector<int>(3,-1)));
+        int ans=0;
+        int a=f(zero,one,limit,1,dp);
+        int b=f(zero,one,limit,0,dp);
+        return (a+b)%mod;
     }
 };
