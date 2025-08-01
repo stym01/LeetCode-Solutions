@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/stym01/LeetCode-Solutions/tree/master/2295-minimum-time-to-finish-the-race) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/stym01/LeetCode-Solutions/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/stym01/LeetCode-Solutions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Heap (Priority Queue)
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/stym01/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/stym01/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/stym01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/stym01/LeetCode-Solutions/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 ## Graph
 |  |
 | ------- |
