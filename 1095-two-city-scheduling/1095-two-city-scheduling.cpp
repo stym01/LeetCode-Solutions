@@ -18,9 +18,35 @@ public:
         
     }
     
+    bool static comp(vector<int>&a,vector<int>&b){
+        int ua=a[0];
+        int ub=a[1];
+
+        int va=b[0];
+        int vb=b[1];
+
+        if(ua-ub<va-vb) return 1;
+        return 0;
+
+    }
+
     int twoCitySchedCost(vector<vector<int>>& costs) {
         int n=costs.size();
-        vector<vector<int>>dp(n/2+1,vector<int>(n/2+1,-1));
-        return f(0,0,costs,dp);
+        int sum=0;
+
+        sort(costs.begin(),costs.end(),comp);
+
+
+        for(int i=0;i<n/2;i++){
+            sum+=costs[i][0];
+        }
+
+        
+        for(int i=n/2;i<n;i++){
+            sum+=costs[i][1];
+        }
+        return sum;
+
+
     }
 };
