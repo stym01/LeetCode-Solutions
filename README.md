@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/stym01/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
 | [1677-matrix-diagonal-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/stym01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/stym01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/stym01/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1170-shortest-common-supersequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/stym01/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Counting Sort
