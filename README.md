@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0967-minimum-falling-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
 | [1677-matrix-diagonal-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1961-maximum-ice-cream-bars](https://github.com/stym01/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/stym01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/stym01/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/stym01/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
 | [1961-maximum-ice-cream-bars](https://github.com/stym01/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/stym01/LeetCode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
+| [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
