@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/stym01/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/stym01/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/stym01/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/stym01/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/stym01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/stym01/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/stym01/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/stym01/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/stym01/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/stym01/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/stym01/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/stym01/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/stym01/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/stym01/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1033-broken-calculator](https://github.com/stym01/LeetCode-Solutions/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/stym01/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 ## Memoization
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/stym01/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/stym01/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
 | ------- |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/stym01/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
