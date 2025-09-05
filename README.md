@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/stym01/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/stym01/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/stym01/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/stym01/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/stym01/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/stym01/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
