@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/stym01/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/stym01/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1961-maximum-ice-cream-bars](https://github.com/stym01/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/stym01/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/stym01/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/stym01/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Prefix Sum
 |  |
