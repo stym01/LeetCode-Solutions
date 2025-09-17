@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/stym01/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/stym01/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/stym01/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stym01/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 ## Sorting
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/stym01/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/stym01/LeetCode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Design
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/stym01/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
