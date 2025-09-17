@@ -19,9 +19,7 @@ public:
             
             freq[txt[j]-'a']++;
             
-            if(j-i+1<k) j++;
-            
-            else if(j-i+1==k){
+            if(j-i+1==k){
                 
                 if(freq==freqW){
                     ans.push_back(i);
@@ -30,11 +28,11 @@ public:
                 freq[txt[i]-'a']--;
                 
                 i++;
-                j++;
                 
                 
             }
             
+            j++;
             
         }
         return ans;
