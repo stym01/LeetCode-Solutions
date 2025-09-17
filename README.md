@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/stym01/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/stym01/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/stym01/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/stym01/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/stym01/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/stym01/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/stym01/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/stym01/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/stym01/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/stym01/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
