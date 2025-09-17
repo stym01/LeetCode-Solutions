@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/stym01/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1611-making-file-names-unique](https://github.com/stym01/LeetCode-Solutions/tree/master/1611-making-file-names-unique) |
 | [1677-matrix-diagonal-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1961-maximum-ice-cream-bars](https://github.com/stym01/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/stym01/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
+| [1611-making-file-names-unique](https://github.com/stym01/LeetCode-Solutions/tree/master/1611-making-file-names-unique) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/stym01/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 | [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stym01/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1611-making-file-names-unique](https://github.com/stym01/LeetCode-Solutions/tree/master/1611-making-file-names-unique) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/stym01/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/stym01/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2487-optimal-partition-of-string](https://github.com/stym01/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
