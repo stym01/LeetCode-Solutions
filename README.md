@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/stym01/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/stym01/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/stym01/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stym01/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/stym01/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/stym01/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/stym01/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/stym01/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/stym01/LeetCode-Solutions/tree/master/0068-text-justification) |
 ## Game Theory
 |  |
 | ------- |
