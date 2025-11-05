@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/stym01/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [0935-orderly-queue](https://github.com/stym01/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/stym01/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1272-invalid-transactions](https://github.com/stym01/LeetCode-Solutions/tree/master/1272-invalid-transactions) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/stym01/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/stym01/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/stym01/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0935-orderly-queue](https://github.com/stym01/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1033-broken-calculator](https://github.com/stym01/LeetCode-Solutions/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/stym01/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 ## Memoization
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/stym01/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [0935-orderly-queue](https://github.com/stym01/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/stym01/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1170-shortest-common-supersequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
