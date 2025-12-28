@@ -11,38 +11,40 @@
 class Solution {
 public:
 
-    ListNode* merge(ListNode*left,ListNode* right){
-        ListNode*dummyNode=new ListNode(-1);
-        ListNode*temp=dummyNode;
-        while(left!=NULL && right!=NULL){
-            if(left->val<=right->val){
-                temp->next=left;
-                temp=temp->next;
-                left=left->next;
+    ListNode*merge(ListNode*temp1,ListNode*temp2){
+        ListNode*result=new ListNode(0);
+        ListNode*ans=result;
+        while(temp1 && temp2){
+            if(temp1->val>temp2->val){
+                result->next=temp2;
+                result=result->next;
+                temp2=temp2->next;
             }
             else{
-                temp->next=right;
-                right=right->next;
-                temp=temp->next;
+                result->next=temp1;
+                result=result->next;
+                temp1=temp1->next;
             }
         }
-        if(left){
-            temp->next=left;
+        if(temp1){
+            result->next=temp1;
         }
-        else{
-            temp->next=right;
-        }
-        return dummyNode->next;
+        if(temp2) result->next=temp2;
+
+        return ans->next;
     }
 
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int k=lists.size();
-        if(k==0) return NULL;
-        if(k==1) return lists[0];
-        ListNode*head=lists[0];
-        for(int i=1;i<k;i++){
-            head=merge(head,lists[i]);
+
+        if(lists.size()==0) return NULL;
+
+        // ListNode*result=lists[0];
+        for(int i=0;i<lists.size()-1;i++){
+            lists[i+1]=merge(lists[i],lists[i+1]);
         }
-        return head;
+    
+        return lists[lists.size()-1];
+
     }
 };
