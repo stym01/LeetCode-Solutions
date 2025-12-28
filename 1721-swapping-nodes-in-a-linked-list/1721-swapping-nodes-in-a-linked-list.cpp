@@ -10,33 +10,31 @@
  */
 class Solution {
 public:
+
+    ListNode*findLast(ListNode*slow,ListNode*temp){
+        while(temp){
+            slow=slow->next;
+            temp=temp->next;
+        }
+        return slow;
+    }
+
     ListNode* swapNodes(ListNode* head, int k) {
         ListNode*temp=head;
-        int n;
-        int cnt=0;
-        ListNode*first;
-        ListNode*second;
-        while(temp){
-            if(cnt==k-1){
-                first=temp;
-            }
-            temp=temp->next;
-            cnt++;
+        int cnt=1;
 
-        }
-        n=cnt-k+1;
-        temp=head;
-        cnt=0;
         while(temp){
-            if(cnt==n-1){
-                second=temp;
+            if(cnt==k){
+                ListNode*firstNode=temp;
+                ListNode*slow=head;
+                ListNode*lastNode=findLast(slow,temp->next);
+                swap(firstNode->val,lastNode->val);
+                return head;
             }
-            temp=temp->next;
             cnt++;
-        }
-
-        swap(first->val,second->val);
-        return head;
+            temp=temp->next;
+        }     
+        return NULL;
 
     }
 };
