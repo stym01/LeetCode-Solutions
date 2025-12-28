@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stym01/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
