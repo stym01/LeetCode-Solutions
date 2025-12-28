@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/stym01/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/stym01/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/stym01/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## String Matching
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stym01/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/stym01/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
