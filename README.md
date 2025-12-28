@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/stym01/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/stym01/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/stym01/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/stym01/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/stym01/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stym01/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/stym01/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0138-copy-list-with-random-pointer](https://github.com/stym01/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
