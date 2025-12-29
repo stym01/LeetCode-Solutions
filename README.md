@@ -327,10 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/stym01/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/stym01/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/stym01/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [2487-remove-nodes-from-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union Find
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/stym01/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/stym01/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/stym01/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [2487-remove-nodes-from-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/stym01/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
