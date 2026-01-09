@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/stym01/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stym01/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/stym01/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/stym01/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/stym01/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/stym01/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/stym01/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/stym01/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
