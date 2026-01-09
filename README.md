@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/stym01/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1033-broken-calculator](https://github.com/stym01/LeetCode-Solutions/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/stym01/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/stym01/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/stym01/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
