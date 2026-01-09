@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/stym01/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/stym01/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/stym01/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/stym01/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/stym01/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/stym01/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/stym01/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/stym01/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/stym01/LeetCode-Solutions/tree/master/0812-rotate-string) |
 ## Counting
 |  |
